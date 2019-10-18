@@ -1,0 +1,3 @@
+https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homework_1.ipynb
+
+LINK TO AN NBVIEWER. SHOULD ALWAYS WORK
