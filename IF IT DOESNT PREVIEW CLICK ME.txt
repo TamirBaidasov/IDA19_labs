@@ -1,5 +1,6 @@
 https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homework_1.ipynb
 https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homework_2.ipynb
 https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homework_3.ipynb
+https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homework_4.ipynb
 
 LINK TO AN NBVIEWER. SHOULD ALWAYS WORK
