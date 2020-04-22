@@ -2,5 +2,7 @@ https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homewor
 https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homework_2.ipynb
 https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homework_3.ipynb
 https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homework_4.ipynb
-
+https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homework_5.ipynb
+https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Homework_6.ipynb
+https://nbviewer.jupyter.org/github/TamirBaidasov/IDA19_labs/blob/master/Final_Homework.ipynb
 LINK TO AN NBVIEWER. SHOULD ALWAYS WORK
